@@ -2,7 +2,10 @@
   "products": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "title 1",
+      "desc": "desc 1",
+      "img": "img 1",
+      "price": 50.0
     }
   ],
   "profile": {
